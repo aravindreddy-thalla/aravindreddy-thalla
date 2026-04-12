@@ -13,7 +13,7 @@ Passionate about building scalable applications, solving real-world problems, an
 - 🐍 Skilled in Python for application development and problem solving
 - 🌐 Building modern web applications using MERN Stack
 - 💡 Strong understanding of OOP, CRUD, and software development principles
-- 🚀 Interested in Backend Development, Full Stack Engineering, and Cloud Technologies
+- 🚀 Interested in Backend Development, Full Stack Engineering.
 - 📍 Open to Internship / Full-Time Opportunities
 
 ---
