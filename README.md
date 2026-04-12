@@ -1,6 +1,6 @@
 
-<h1 align="center>Hi 👋, I'm Thalla Aravind Reddy  </h1>
-<h3 align="center>🚀 Software Developer | MERN Stack Developer | Python Programmer<h3>
+<h1 align="center">Hi 👋, I'm Thalla Aravind Reddy  </h1>
+<h6 align="center">🚀 Software Developer | MERN Stack Developer | Python Programmer<h6>
 <p align="center">
 Passionate about building scalable applications, solving real-world problems, and growing as a Full Stack Developer.
 </p>
