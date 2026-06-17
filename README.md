@@ -18,29 +18,32 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visualstudiocode)
+
 
 
 
@@ -56,7 +59,6 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ## 🎯 Current Focus
 
-- MERN Stack Development
 - Python Projects
 - Interview Preparation
 - Job Applications
